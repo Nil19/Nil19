@@ -1,10 +1,9 @@
 ### Hi, I'm Nilu 👋
 
-🚀 My journey involves making my way into the programming world by learning languages and sharing my projects.
-🌱 I’m currently learning React & Python.
+- 🚀 My journey involves making my way into the programming world by learning languages and sharing my projects.
+- 🌱 I’m currently learning React & Python.
 
-
-!Nil19's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<Nil19>'s Stats](https://github-readme-stats.vercel.app/api?username=<Nil19>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ## Tech Stack
