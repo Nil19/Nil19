@@ -1,8 +1,8 @@
 ### Hi, I'm Nilufar 👋
 
-- 🚀 My journey involves making my way into the programming world by learning languages and sharing my projects.
-- 🌱 I’m currently learning React & Python.
-- 💬 Have any tips, advice or feedback? I'm happy to hear them, just drop me a [message](https://www.linkedin.com/in/nilufar-a-6a626b175/).
+🚀 My journey involves making my way into the programming world by learning languages and sharing my projects.<br />
+🌱 I’m currently learning React & Python.<br />
+💬 Have any tips, advice or feedback? I'm happy to hear them, just drop me a [message](https://www.linkedin.com/in/nilufar-a-6a626b175/).<br />
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
