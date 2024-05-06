@@ -7,7 +7,7 @@
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,HTML,CSS,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
 
 Thanks for stopping by! [Let's connect](https://www.linkedin.com/in/nilufar-a-6a626b175/) 😄
 
