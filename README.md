@@ -1,4 +1,4 @@
-### Hi, I'm Nilu 👋
+### Hi, I'm Nilufar 👋
 
 - 🚀 My journey involves making my way into the programming world by learning languages and sharing my projects.
 - 🌱 I’m currently learning React & Python.
