@@ -2,11 +2,10 @@
 
 - 🚀 My journey involves making my way into the programming world by learning languages and sharing my projects.
 - 🌱 I’m currently learning React & Python.
+- 💬 Have any tips, advice or feedback? I'm happy to hear them, just drop me a [message](https://www.linkedin.com/in/nilufar-a-6a626b175/).
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
-
-Thanks for stopping by! [Let's connect](https://www.linkedin.com/in/nilufar-a-6a626b175/) 😄
 
 <!--
 **Nil19/Nil19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
