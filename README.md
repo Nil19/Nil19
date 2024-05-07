@@ -5,7 +5,7 @@
 💬 Have any tips, advice or feedback? I'm happy to hear them, just drop me a [message](https://www.linkedin.com/in/nilufar-a-6a626b175/).<br />
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+[!My Skills(https://skillicons.dev/icons?i=js,html,css,python)]
 
 <!--
 **Nil19/Nil19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
